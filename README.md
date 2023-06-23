@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  ◦•●◉✿ ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ ᴘʀᴀɪsᴇ ✿◉●•◦
+  <br>
+  ⁱ ʷʳⁱᵗᵉ ᶜᵒᵈᵉˢ
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="100"/>
@@ -15,7 +19,7 @@
 </div>
 
 - 🔭 I’m currently working on a Decentralized Exchange
-- 🌱 I’m currently learning about web3 and AI
+- 🌱 I’m currently learning about Web3 and AI
 - 📫 How to reach me: Bat Signal 〴 ⋋_⋌ 〵
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do 3d art
@@ -32,8 +36,8 @@
 
 
 <div>
-  <h1>Languages and Tools: </h1>
-    <p align="center">
+    <h3>Languages and Tools: </h3> 
+  <p align="center">
     <img src="https://github.com/praise03/praise03/blob/main/skills.svg">
   </p>
 </div>
