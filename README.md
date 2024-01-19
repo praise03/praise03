@@ -30,7 +30,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I'm Currently participating in public audits on Code4rena
+- 🔭 I'm Currently participating in public audits on Code4rena ([C4 Profile](https://code4rena.com/@King_))
 - 🌱 I'm Currently Learning About Web3 and DeFi Security
 - 📫 How To Reach Me: Bat Signal 〴 ⋋_⋌ 〵
 - 😄 Pronouns: He / Him
