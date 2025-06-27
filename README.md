@@ -11,13 +11,13 @@
   <a href="https://www.linkedin.com/in/praise-adedokun-b544061bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/___praise">
+  <a href="https://twitter.com/heavn0x">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://twitter.com/___praise">
+  <a href="mailto:praise23.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail To Badge"/>
   </a>
-  <a href="https://twitter.com/___praise">
+  <a href="https://discord.com/users/_killua69_">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://t.me/praise_dev">
@@ -30,8 +30,8 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I'm Currently participating in public audits on Code4rena ([C4 Profile](https://code4rena.com/@King_))
-- 🌱 I'm Currently Learning About Web3 and DeFi Security
+- 🔭 I'm Currently participating in public web3 security audit contests ([Auditing Portfolio](https://audits.sherlock.xyz/watson/Praise03))
+- 🌱 I'm Currently Learning Rust and Solana Development
 - 📫 How To Reach Me: Bat Signal 〴 ⋋_⋌ 〵
 - 😄 Pronouns: He / Him
 - ⚡ Fun Fact: I do 3D Art
