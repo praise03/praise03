@@ -41,7 +41,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=praise03&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praise02&layout=compact&theme=vision-friendly-dark&langs_count=10&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praise03&layout=compact&theme=vision-friendly-dark&langs_count=10&hide=css)
 <br>
 ![Snake animation](https://github.com/praise03/praise03/blob/output/github-contribution-grid-snake.svg)
 
